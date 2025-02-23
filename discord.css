@@ -400,7 +400,7 @@
 .channelTextArea_f75fb0,
 .channelTextArea_fb64c9 {
 	&::after {
-		content: 'input';
+		content: 'chat';
 	}
 }
 .guilds_c48ade::after {
