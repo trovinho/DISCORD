@@ -384,15 +384,15 @@
 	transition: color var(--border-transition);
 }
 .sidebar_c48ade > [class^='container_']::after {
-	content: 'server';
+	content: 'servidor';
 }
 .container__9293f::after {
-	content: 'channel';
+	content: 'canal';
 	top: -11px;
 }
 .messagesWrapper__36d07::after,
 .scroller_fb64c9::after {
-	content: 'messages';
+	content: 'mensagens';
 }
 .panels_c48ade::after {
 	content: 'user';
@@ -400,14 +400,14 @@
 .channelTextArea_f75fb0,
 .channelTextArea_fb64c9 {
 	&::after {
-		content: 'chat';
+		content: 'input';
 	}
 }
 .guilds_c48ade::after {
 	content: 'nav';
 }
 .membersWrap_c8ffbb::after {
-	content: 'members';
+	content: 'membros';
 }
 .privateChannels__35e86::after {
 	content: 'dms';
@@ -416,16 +416,16 @@
 	content: 'forum';
 }
 .content_f75fb0 > .outer_c0bea0::after {
-	content: 'profile';
+	content: 'perfil';
 }
 .searchResultsWrap_a9e706::after {
-	content: 'search';
+	content: 'pesquisa';
 }
 .peopleColumn__133bf::after {
-	content: 'friends';
+	content: 'amigos';
 }
 .nowPlayingColumn__133bf::after {
-	content: 'activity';
+	content: 'atividade';
 }
 
 /* Fix oversized statuses on friends page */
