@@ -395,16 +395,16 @@
 	content: 'mensagens';
 }
 .panels_c48ade::after {
-	content: 'user';
+	content: 'você';
 }
 .channelTextArea_f75fb0,
 .channelTextArea_fb64c9 {
 	&::after {
-		content: 'input';
+		content: 'chat';
 	}
 }
 .guilds_c48ade::after {
-	content: 'nav';
+	content: 'servers';
 }
 .membersWrap_c8ffbb::after {
 	content: 'membros';
